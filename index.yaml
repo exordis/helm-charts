@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   cicd-sdk:
   - apiVersion: v2
-    created: "2025-03-08T17:40:30.413903816Z"
+    created: "2025-03-08T18:19:49.607945167Z"
     description: A Helm chart for Kubernetes
     digest: cc114c55354b2fc288633d3b743d19c873862a7ffd7215768efed1ce80d9cc16
     name: cicd-sdk
@@ -14,7 +14,7 @@ entries:
   - annotations:
       sdk.engine.templates-prefix: subsystem-application
     apiVersion: v2
-    created: "2025-03-08T17:40:30.416212798Z"
+    created: "2025-03-08T18:19:49.609136824Z"
     dependencies:
     - alias: sdk
       name: cicd-sdk
@@ -27,3 +27,4 @@ entries:
     urls:
     - https://exordis.github.io/sponsors-helm-charts/cicd-subsystem-application-0.2.28.tgz
     version: 0.2.27
+generated: "2025-03-08T18:19:49.607522554Z"
