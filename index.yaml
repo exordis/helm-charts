@@ -4,7 +4,7 @@ entries:
   - annotations:
       sdk.engine.templates-prefix: subsystem-application
     apiVersion: v2
-    created: "2025-03-08T17:18:06.486848265Z"
+    created: "2025-03-08T17:22:37.415960761Z"
     dependencies:
     - alias: sdk
       name: cicd-sdk
@@ -20,7 +20,7 @@ entries:
   - annotations:
       sdk.engine.templates-prefix: subsystem-application
     apiVersion: v2
-    created: "2025-03-08T17:18:06.488085396Z"
+    created: "2025-03-08T17:22:37.417155458Z"
     dependencies:
     - alias: sdk
       name: cicd-sdk
@@ -33,4 +33,4 @@ entries:
     urls:
     - https://exordis.github.io/sponsors-helm-charts/cicd-subsystem-application-0.2.28.tgz
     version: 0.2.27
-generated: "2025-03-08T17:18:06.485439492Z"
+generated: "2025-03-08T17:22:37.414592642Z"
