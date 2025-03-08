@@ -4,7 +4,7 @@ entries:
   - annotations:
       sdk.engine.templates-prefix: subsystem-application
     apiVersion: v2
-    created: "2025-03-08T17:15:11.830586777Z"
+    created: "2025-03-08T17:16:51.873073666Z"
     dependencies:
     - alias: sdk
       name: cicd-sdk
@@ -17,4 +17,20 @@ entries:
     urls:
     - https://exordis.github.io/sponsors-helm-charts/cicd-subsystem-application-0.2.27.tgz
     version: 0.2.27
-generated: "2025-03-08T17:15:11.829158642Z"
+  - annotations:
+      sdk.engine.templates-prefix: subsystem-application
+    apiVersion: v2
+    created: "2025-03-08T17:16:51.874525954Z"
+    dependencies:
+    - alias: sdk
+      name: cicd-sdk
+      repository: oci://registry.gitlab.com/knst/cy/registry/charts
+      version: ~0.1.33
+    description: Base helm-chart for deployment of application as a part of subsystem
+    digest: ee11cc15e0ab4a381a49709d34a52b148f2955aa0d979314187ba02fad4ee9b8
+    name: cicd-subsystem-application
+    type: application
+    urls:
+    - https://exordis.github.io/sponsors-helm-charts/cicd-subsystem-application-0.2.28.tgz
+    version: 0.2.27
+generated: "2025-03-08T17:16:51.871389375Z"
